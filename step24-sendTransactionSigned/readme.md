@@ -10,6 +10,8 @@ You can create an account using metamask for this step and load it with test eth
 
 You will see in the code that here we have explicitly signed our transaction using the private key. This is how you should go about sending transactions in a public block chain where the nodes cannot be trusted with your private keys.
 
+npm link typescript
+
 npm start
 
 or
