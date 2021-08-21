@@ -15,6 +15,7 @@ https://www.trufflesuite.com/ganache
 
 Ganache creates many public addresses for you. You can use them
 
+npm link typescript
 
 npm start
 
