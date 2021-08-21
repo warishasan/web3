@@ -1,17 +1,17 @@
 # Read Data From Smart Contract
 
-[Watch Video Tutorial](https://www.youtube.com/watch?v=tu92jcqdn6s&t=2s)
-
-[Read the #2 of this Tutorial](https://www.dappuniversity.com/articles/web3-js-intro)
+[Watch Video Tutorial](https://www.youtube.com/watch?v=uFdjZ-B3GCM&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN&index=3)
 
 
-We are going to use Dai ABI from here:
+This step covers the initial part of the video.
 
-https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f#code
+We are creating a transaction using web3js to send ethers from account1 to account2.
+In this example we are creating transactions using ganache, therefore all the public addresses are unlocked and the node takes care of signing of the transaction.
 
-Also get the address of someone who holds Dai from the Holders tab
+You can download ganache from 
 
-Create SmartContract.ts, and index.ts
+https://www.trufflesuite.com/ganache
+
 
 
 npm start
